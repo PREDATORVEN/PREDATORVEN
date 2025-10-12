@@ -2,7 +2,7 @@
 ![Banner](https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:203a43,200:2c5364&height=200&section=header&text=Yash%20Sharma%20⚡&fontSize=55&fontColor=00FFFF&animation=fadeIn)
 
 <h3 align="center">🚀 AI | Blockchain | IoT | Automation Enthusiast</h3>
-<h4 align="center">Research Trainee @ DRDO | B.Tech CSE'25 | Innovating at the intersection of Intelligence & Systems</h4>
+<h4 align="center">Product Intern @ Awign |Research Trainee @ DRDO | B.Tech CSE'25 | Innovating at the intersection of Intelligence & Systems</h4>
 
 ---
 
