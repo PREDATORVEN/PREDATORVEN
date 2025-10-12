@@ -7,7 +7,7 @@
 ---
 
 ### 👨‍💻 About Me  
-🔹 Final-year B.Tech (CSE) | **HMRITM, GGSIPU Delhi (CGPA: 9.15)**  
+🔹 B.Tech (CSE) | **HMRITM, GGSIPU Delhi (CGPA: 9.15)**  
 🔹 Passionate about **AI, Blockchain, Web Automation & NLP**  
 🔹 Skilled in **Python, Django, Flask, ML, IoT, Hyperledger Fabric**  
 🔹 I love exploring ways to merge **automation and intelligence** for impactful systems  
