@@ -78,7 +78,8 @@
 ---
 
 ### 🧩 Contribution Graph
-![Snake animation](https://github.com/PREDATORVEN/PREDATORVEN/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/PREDATORVEN/PREDATORVEN/blob/output/snake.svg)
+
 
 ---
 
