@@ -17,7 +17,7 @@
 
 ### 💼 Experience
 
-- 🧩 **Product Management Intern | Awign (Oct 2025 – Present)**  
+- 🧩 **Product Management Intern | Awign (Oct 2025 – Jan 2026)**  
   Collaborating with cross-functional teams to analyze user needs, enhance product features, and optimize internal workflows.  
   Working on feature documentation, competitor analysis, and feedback mapping to align technical execution with business goals.  
 
@@ -47,13 +47,13 @@
 ### ⚙️ Tech Stack
 
 **Languages:**  
-🧩 Python | C++ | JavaScript | SQL  
+🧩 Python | JavaScript | SQL  
 
 **Frameworks & Libraries:**  
-🚀 Django | Flask | Streamlit | TensorFlow | Scikit-learn | OpenCV | XGBoost  
+🚀 Django | FastAPI | Flask | Streamlit | TensorFlow | Scikit-learn | OpenCV | XGBoost  
 
 **Tools & Databases:**  
-🗄️ MySQL | MongoDB | Oracle | Hyperledger Fabric | Selenium | Git  
+🗄️N8N| MySQL | MongoDB | Oracle | Hyperledger Fabric | Selenium | Git  
 
 **Other Skills:**  
 🧠 Web Automation | AI & ML Model Building | IoT Integration | REST APIs | Blockchain Development  
